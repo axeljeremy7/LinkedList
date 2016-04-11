@@ -1,6 +1,6 @@
 
 public class LinkedList {
-	Node head; //Node <String> y object to String
+	Node head; 
 	int size;
 
 	public void add(Object data) {
