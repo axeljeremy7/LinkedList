@@ -178,3 +178,6 @@ public class LinkedList<T> implements IList<T> {
 	
 		return size;
 	}
+	
+}	
+	
