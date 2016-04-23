@@ -1,4 +1,3 @@
 # LinkedList
 
-The implemention of a LinkedList.
-The LinkedList works with any type of object.
+LinkedList-and-Stack with Generics
